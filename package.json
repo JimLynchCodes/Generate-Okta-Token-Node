@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/JimLynchCodes/Generate-Okta-Token-Node#readme",
   "dependencies": {
+    "@okta/jwt-verifier": "^1.0.0",
     "dotenv": "^8.2.0",
     "njwt": "^1.0.0"
   }
